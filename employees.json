@@ -1,0 +1,135 @@
+[
+  {
+    "id": "EMP001",
+    "name": "Arjun Sharma",
+    "email": "arjun.sharma@company.com",
+    "role": "Senior Backend Developer",
+    "skills": [
+      "python",
+      "database",
+      "api",
+      "django",
+      "postgresql",
+      "development"
+    ],
+    "specialization": [
+      "development",
+      "bug"
+    ],
+    "current_tickets": 2,
+    "max_capacity": 5,
+    "availability_score": 0.6,
+    "experience_years": 7
+  },
+  {
+    "id": "EMP002",
+    "name": "Priya Patel",
+    "email": "priya.patel@company.com",
+    "role": "IT Support Specialist",
+    "skills": [
+      "helpdesk",
+      "active directory",
+      "windows",
+      "linux",
+      "networking",
+      "vpn"
+    ],
+    "specialization": [
+      "bug",
+      "query"
+    ],
+    "current_tickets": 1,
+    "max_capacity": 8,
+    "availability_score": 0.875,
+    "experience_years": 4
+  },
+  {
+    "id": "EMP003",
+    "name": "Rahul Verma",
+    "email": "rahul.verma@company.com",
+    "role": "Database Administrator",
+    "skills": [
+      "sql",
+      "database",
+      "postgresql",
+      "mysql",
+      "performance",
+      "query optimization"
+    ],
+    "specialization": [
+      "query",
+      "bug"
+    ],
+    "current_tickets": 3,
+    "max_capacity": 5,
+    "availability_score": 0.4,
+    "experience_years": 9
+  },
+  {
+    "id": "EMP004",
+    "name": "Sneha Nair",
+    "email": "sneha.nair@company.com",
+    "role": "Full Stack Developer",
+    "skills": [
+      "javascript",
+      "react",
+      "nodejs",
+      "api",
+      "frontend",
+      "backend",
+      "integration"
+    ],
+    "specialization": [
+      "development",
+      "bug"
+    ],
+    "current_tickets": 1,
+    "max_capacity": 5,
+    "availability_score": 0.8,
+    "experience_years": 5
+  },
+  {
+    "id": "EMP005",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@company.com",
+    "role": "DevOps Engineer",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "monitoring",
+      "performance",
+      "infrastructure"
+    ],
+    "specialization": [
+      "bug",
+      "development"
+    ],
+    "current_tickets": 1,
+    "max_capacity": 4,
+    "availability_score": 0.75,
+    "experience_years": 6
+  },
+  {
+    "id": "EMP006",
+    "name": "Ananya Reddy",
+    "email": "ananya.reddy@company.com",
+    "role": "IT Business Analyst",
+    "skills": [
+      "requirements",
+      "analysis",
+      "reporting",
+      "excel",
+      "process",
+      "documentation"
+    ],
+    "specialization": [
+      "query",
+      "development"
+    ],
+    "current_tickets": 2,
+    "max_capacity": 6,
+    "availability_score": 0.67,
+    "experience_years": 5
+  }
+]

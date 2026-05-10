@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Login Issue",
+    "description": "User cannot log in due to incorrect password.",
+    "category": "bug",
+    "priority": "medium",
+    "affected_system": "System",
+    "keywords": [
+      "login",
+      "password",
+      "incorrect"
+    ],
+    "estimated_complexity": "simple",
+    "id": "TKT-20260510082946",
+    "created_at": "2026-05-10T08:29:46.803824",
+    "status": "solution_provided",
+    "original_description": "I cannot login to the system. It keeps saying my password is wrong."
+  },
+  {
+    "title": "Payment Gateway Integration Failure During Checkout",
+    "description": "Customers are receiving 502 errors while making payments through the checkout process.",
+    "category": "development",
+    "priority": "medium",
+    "affected_system": "checkout module",
+    "keywords": [
+      "payment gateway",
+      "checkout process",
+      "502 errors"
+    ],
+    "estimated_complexity": "moderate",
+    "id": "TKT-20260510082958",
+    "created_at": "2026-05-10T08:29:58.110232",
+    "status": "solution_provided",
+    "original_description": "The payment gateway integration is failing during checkout. Customers are getting 502 errors."
+  },
+  {
+    "title": "Login Issue",
+    "description": "User is unable to log in.",
+    "category": "bug",
+    "priority": "medium",
+    "affected_system": "Web Application",
+    "keywords": [
+      "login",
+      "security",
+      "authentication"
+    ],
+    "estimated_complexity": "simple",
+    "id": "TKT-20260510083948",
+    "created_at": "2026-05-10T08:39:48.237806",
+    "status": "solution_provided",
+    "original_description": "I am unable to login"
+  },
+  {
+    "title": "Major Presentation in 1 Hour - Login Issue",
+    "description": "User unable to log into system due to urgent presentation.",
+    "category": "development",
+    "priority": "high",
+    "affected_system": "all systems",
+    "keywords": [
+      "urgent",
+      "presentation",
+      "login issue"
+    ],
+    "estimated_complexity": "complex",
+    "id": "TKT-20260510092401",
+    "created_at": "2026-05-10T09:24:01.388701",
+    "status": "assigned",
+    "original_description": "URGENT!!! I cannot login at all \u2014 major presentation in 1 hour!",
+    "sentiment": "frustrated",
+    "assigned_to": "EMP005"
+  },
+  {
+    "title": "Login Issue",
+    "description": "User unable to log in due to incorrect password.",
+    "category": "bug",
+    "priority": "medium",
+    "affected_system": "System",
+    "keywords": [
+      "login",
+      "password",
+      "issue"
+    ],
+    "estimated_complexity": "simple",
+    "id": "TKT-20260510101550",
+    "created_at": "2026-05-10T10:15:50.537490",
+    "status": "solution_provided",
+    "original_description": "I cannot login to the system. My password keeps getting rejected.",
+    "sentiment": "neutral"
+  }
+]
